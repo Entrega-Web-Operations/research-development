@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Research and Development
+The site for research and development
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--research-development--entrega-web-operations.hlx.page/
+- Live: https://main--research-development--entrega-web-operations.hlx.live/
 
 ## Installation
 
